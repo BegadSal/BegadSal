@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Begad!
+# 👋 Hey, I'm Begad!
 
 🎯 Aspiring **Software Developer** | 🎮 **Freelance Unity Game Developer** | 💻 **Python Explorer**  
 📍 Based in Egypt
